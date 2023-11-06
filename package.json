@@ -1,5 +1,5 @@
 {
-  "name": "test_library",
+  "name": "test_library_sml",
   "version": "1.0.0",
   "description": "Test library based on lodash.js",
   "main": "index.js",
