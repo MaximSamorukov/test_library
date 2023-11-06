@@ -1,6 +1,6 @@
 {
   "name": "test_library_sml",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test library based on lodash.js",
   "main": "index.js",
   "scripts": {
